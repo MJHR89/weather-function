@@ -1,0 +1,17 @@
+{
+  "apps": {
+    "T03CBF2H1PD": {
+      "app_id": "A074W65RYP2",
+      "IsDev": false,
+      "team_domain": "mjtestworkspaces",
+      "team_id": "T03CBF2H1PD"
+    },
+    "T05656DHAKU": {
+      "app_id": "A074QACUQBF",
+      "IsDev": false,
+      "team_domain": "slack-ext-workshops",
+      "team_id": "T05656DHAKU"
+    }
+  },
+  "default": "mjtestworkspaces"
+}
